@@ -88,5 +88,4 @@ git clone https://github.com/project-owner/AutomationFramework.git
 
 ### Method 1: Using TestNG
 
-Right-click on:![WhatsApp Image 2026-02-23 at 12 28 26 PM](https://github.com/user-attachments/assets/a854c5c8-d1ce-4184-ba48-f5e102cb8396)
-[data.xlsx](https://github.com/user-attachments/files/26120300/data.xlsx)
+
